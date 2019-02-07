@@ -9,7 +9,7 @@ go install github.com/asticode/go-astilectron-bundler/astilectron-bundler
 ```
 
 
-## build electron app
+## build electron app using go-astilectron and vue
 
 ```
 dep ensure

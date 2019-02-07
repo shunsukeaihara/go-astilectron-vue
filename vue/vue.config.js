@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "dummy_public_path"
+  publicPath: "DUMMY_PUBLIC_PATH"
 }
