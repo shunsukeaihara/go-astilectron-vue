@@ -1,6 +1,6 @@
 # go-astilectron-vue
 
-なんかpublicPathを指定してもjsonpScriptSrcで動的に読み込むチャンクが読めなかったのでsedで`__dirname`変数を参照するように書き換えている。マジ糞なのでもっと良い解決方法知りたい。
+なんかpublicPathを指定してもjsonpScriptSrcで動的に読み込むチャンクが読めなかったのでsedで`__dirname`変数を参照するように書き換えている。マジ糞なのでもっと良い解決方法知りたい。webpack使うな的な話だと思う。chunk生成しないようにするオプションもなんか動かなかったけど多分そっちでもできるはず
 
 ## install go-astilectron-bundler
 
